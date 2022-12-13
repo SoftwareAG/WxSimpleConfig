@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">readFileAsBytes</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCWZpbGVuYW1lID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVD
+dXJzb3IsICJmaWxlbmFtZSIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0KYnl0ZVtd
+IGFycmF5ID0gbnVsbDsNCnRyeSB7DQoJYXJyYXkgPSBGaWxlcy5yZWFkQWxsQnl0ZXMoUGF0aHMu
+Z2V0KGZpbGVuYW1lKSk7DQp9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7DQoJdGhyb3cgbmV3IFNl
+cnZpY2VFeGNlcHRpb24oZSk7DQp9CQkJDQoNCi8vIHBpcGVsaW5lDQpJRGF0YUN1cnNvciBwaXBl
+bGluZUN1cnNvcl8xID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBwaXBl
+bGluZUN1cnNvcl8xLCAiZmlsZUJ5dGVzIiwgYXJyYXkgKTsNCnBpcGVsaW5lQ3Vyc29yXzEuZGVz
+dHJveSgpOw==</value>
+</Values>

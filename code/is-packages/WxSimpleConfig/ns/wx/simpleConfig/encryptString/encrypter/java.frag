@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">encrypter</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">U3RyaW5nIGVuY3J5cHRlZERhdGEgPSBudWxsOw0KLy8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBp
+cGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQoJU3RyaW5nIGRlY3J5cHRlZERh
+dGEgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNvciwgImRlY3J5cHRlZERhdGEi
+ICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQoNCnRyeSB7DQogICAgICBlbmNyeXB0ZWRE
+YXRhID0gRHluYW1pY1ZhcmlhYmxlc0VuY3J5cHRvci5pbnN0YW5jZSgpLmVuY3J5cHREYXRhKGRl
+Y3J5cHRlZERhdGEpOw0KICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7DQogICAgICB0aHJvdyBu
+ZXcgU2VydmljZUV4Y2VwdGlvbihlKTt9DQoNCi8vIHBpcGVsaW5lDQpJRGF0YUN1cnNvciBwaXBl
+bGluZUN1cnNvcl8xID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBwaXBl
+bGluZUN1cnNvcl8xLCAiZW5jcnlwdGVkRGF0YSIsIGVuY3J5cHRlZERhdGEgKTsNCnBpcGVsaW5l
+Q3Vyc29yXzEuZGVzdHJveSgpOw0KCQ==</value>
+</Values>

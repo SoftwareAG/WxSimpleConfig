@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getNextIdMultipleForms</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCg0KbG9uZyBsPXNmLm5leHRJZCgpOw0KTG9uZyBsTCA9IG5ldyBMb25nKGwp
+Ow0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNCklE
+YXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yLCAic05leHRJZEhleCIsICBMb25nLnRvSGV4U3Ry
+aW5nKGwpICk7DQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvciwgImxOZXh0SWQiLCBsTCAp
+Ow0KSURhdGFVdGlsLnB1dCggcGlwZWxpbmVDdXJzb3IsICJzTmV4dElkIiwgIiIrbCApOw0KSURh
+dGFVdGlsLnB1dCggcGlwZWxpbmVDdXJzb3IsICJzTmV4dElkU2hvcnQiLCBCYXNlNjQuZ2V0RW5j
+b2RlcigpLmVuY29kZVRvU3RyaW5nKGxvbmdUb0J5dGVzKGwpKSApOw0KcGlwZWxpbmVDdXJzb3Iu
+ZGVzdHJveSgpOw==</value>
+</Values>

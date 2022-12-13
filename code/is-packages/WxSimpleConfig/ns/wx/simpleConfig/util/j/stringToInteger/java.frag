@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">stringToInteger</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">U3RyaW5nCWludGVnZXJTdHJpbmcgPSBudWxsOw0KYm9vbGVhbiBwcmVzZW50ID0gZmFsc2U7DQpJ
+bnRlZ2VyIGlPYmogPSBudWxsOw0KDQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVD
+dXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNCnByZXNlbnQ9cGlwZWxpbmVDdXJzb3IuZmly
+c3QoImludGVnZXJTdHJpbmciKTsNCmlmIChwcmVzZW50KQ0Kew0KCWludGVnZXJTdHJpbmcgPSAo
+U3RyaW5nKSBwaXBlbGluZUN1cnNvci5nZXRWYWx1ZSgpOw0KCWlmIChudWxsICE9IGludGVnZXJT
+dHJpbmcpDQoJCWlPYmogPSBJbnRlZ2VyLnBhcnNlSW50KGludGVnZXJTdHJpbmcpOw0KfQ0KcGlw
+ZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxp
+bmVDdXJzb3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KSURhdGFVdGlsLnB1dCggcGlwZWxp
+bmVDdXJzb3JfMSwgImludGVnZXJPYmplY3QiLCBpT2JqICk7DQpwaXBlbGluZUN1cnNvcl8xLmRl
+c3Ryb3koKTsNCgk=</value>
+</Values>

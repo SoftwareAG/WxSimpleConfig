@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getSysPropsList</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KDQovLyBwaXBlbGluZQ0KUHJvcGVydGllcyBwcm9wID0gU3lzdGVtLmdl
+dFByb3BlcnRpZXMoKTsNCg0KZmluYWwgU2V0PFN0cmluZz4ga2V5cyA9IHByb3Auc3RyaW5nUHJv
+cGVydHlOYW1lcygpOw0KU3RyaW5nW10JcmV0TGlzdCA9IG5ldyBTdHJpbmdba2V5cy5zaXplKCld
+Ow0KDQppbnQgaSA9IDA7DQpmb3IgKFN0cmluZyBrZXkgOiBrZXlzKSB7DQogICAgcmV0TGlzdFtp
+XSA9IGtleTsNCiAgICBpKys7DQp9CQkNCg0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBw
+aXBlbGluZS5nZXRDdXJzb3IoKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yLCAicmV0
+TGlzdCIsIHJldExpc3QgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCgk=</value>
+</Values>

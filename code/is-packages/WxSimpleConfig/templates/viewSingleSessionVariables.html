@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>WxSimpleConfig - View Section %value section%</title>
+</head>
+<body>
+<h1>WxSimpleConfig - View Section %value section%</h1>
+<table>
+<tr><th>Key</th><th>Value</th>
+%loop configuredValues%
+<tr>
+<td><a href="/WmRoot/settings-global-variables-addedit.dsp?operation=edit&key=%value section%_%value key%">%value key%</a></td>
+<td>%value value%</td>
+</tr>
+%endloop%
+</table>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">fileExists</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCWZ1bGxQYXRoRmlsZU5hbWUgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBw
+aXBlbGluZUN1cnNvciwgImZ1bGxQYXRoRmlsZU5hbWUiICk7DQpwaXBlbGluZUN1cnNvci5kZXN0
+cm95KCk7DQoNCmJvb2xlYW4gYkV4aXN0cyA9IGZhbHNlOw0KDQppZihudWxsICE9IGZ1bGxQYXRo
+RmlsZU5hbWUgJiYgZnVsbFBhdGhGaWxlTmFtZS5sZW5ndGgoKT4wKXsNCiAgICBGaWxlIGYgPSBu
+ZXcgRmlsZShmdWxsUGF0aEZpbGVOYW1lKTsgDQogICAgYkV4aXN0cyA9IGYuZXhpc3RzKCk7DQp9
+DQoNCi8vIHBpcGVsaW5lDQpJRGF0YUN1cnNvciBwaXBlbGluZUN1cnNvcl8xID0gcGlwZWxpbmUu
+Z2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvcl8xLCAiYkV4aXN0cyIs
+ICIiK2JFeGlzdHMgKTsNCnBpcGVsaW5lQ3Vyc29yXzEuZGVzdHJveSgpOw0KCQ==</value>
+</Values>

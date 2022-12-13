@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>WxSimpleConfig - Sections</title>
+</head>
+
+<script type="text/javascript">
+
+function getConfirmation()
+{
+	var check = confirm("Are you sure you want to proceed?");
+	if (check == true) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+</script>
+
+
+<body>
+<h1>WxSimpleConfig - Sections</h1>
+%invoke wx.simpleConfig.globalVariables.genericContent.skv.web:viewSections%
+
+<table>
+%loop sections%
+<tr>
+<td style="width:5%" ><a target="_self" onclick="return getConfirmation()" href="/invoke/wx.simpleConfig.globalVariables.genericContent.skv.web/removeSection?section=%value sections%&landingPage=/WxSimpleConfig/index.dsp" title="Delete"><img src="images/Delete_Icon_small.png" /></a></td>
+<td>
+<a href="/invoke/wx.simpleConfig.globalVariables.genericContent.skv.web/viewSingleSection?section=%value sections%">%value sections%</a>
+</td>
+</tr>
+%endloop%
+</table>
+
+%endinvoke%
+</body>
+</html>

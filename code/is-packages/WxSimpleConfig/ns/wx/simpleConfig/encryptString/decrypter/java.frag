@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">decrypter</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNClN0cmlu
+ZwllbmNyeXB0ZWREYXRhID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3IsICJl
+bmNyeXB0ZWREYXRhIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KU3RyaW5nIGRlY3J5
+cHRlZERhdGEgPSBudWxsOw0KICB0cnkgew0KICBkZWNyeXB0ZWREYXRhID0gRHluYW1pY1Zhcmlh
+Ymxlc0VuY3J5cHRvci5pbnN0YW5jZSgpLmRlY3J5cHREYXRhKGVuY3J5cHRlZERhdGEpOw0KICB9
+IGNhdGNoIChFeGNlcHRpb24gZSkgew0KICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihlKTsN
+CiAgfQ0KLy8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBwaXBlbGlu
+ZS5nZXRDdXJzb3IoKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yXzEsICJkZWNyeXB0
+ZWREYXRhIiwgZGVjcnlwdGVkRGF0YSApOw0KcGlwZWxpbmVDdXJzb3JfMS5kZXN0cm95KCk7</value>
+</Values>
