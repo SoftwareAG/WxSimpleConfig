@@ -110,7 +110,12 @@ Y2VwdGlvbiB7CgkJU3RyaW5nIHByb2Nlc3NOYW1lID0gamF2YS5sYW5nLm1hbmFnZW1lbnQuTWFu
 YWdlbWVudEZhY3RvcnkuZ2V0UnVudGltZU1YQmVhbigpLmdldE5hbWUoKTsKCQlpZiAocHJvY2Vz
 c05hbWUgIT0gbnVsbCAmJiBwcm9jZXNzTmFtZS5sZW5ndGgoKSA+IDApIHsKCQkJcmV0dXJuIExv
 bmcucGFyc2VMb25nKHByb2Nlc3NOYW1lLnNwbGl0KCJAIilbMF0pOwoJCX0gZWxzZSB7CgkJCXRo
-cm93IG5ldyBFeGNlcHRpb24oKTsKCQl9Cgl9Cn0g</value>
+cm93IG5ldyBFeGNlcHRpb24oKTsKCQl9Cgl9Cn0KCnN0YXRpYyBwcml2YXRlIFN0cmluZyBnZXRD
+cnRIb3N0TmFtZSgpewoJU3RyaW5nIHMgPSBudWxsOwoJdHJ5IHsKCQlzID0gamF2YS5uZXQuSW5l
+dEFkZHJlc3MuZ2V0TG9jYWxIb3N0KCkuZ2V0SG9zdE5hbWUoKTsKCX0gY2F0Y2ggKFVua25vd25I
+b3N0RXhjZXB0aW9uIGUpIHsKCQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIGNhdGNoIGJsb2NrCgkJ
+ZS5wcmludFN0YWNrVHJhY2UoKTsKCX0KCXJldHVybiBzOwp9CgpzdGF0aWMgZmluYWwgcHJpdmF0
+ZSBTdHJpbmcgY3J0SG9zdE5hbWU9Z2V0Q3J0SG9zdE5hbWUoKTs=</value>
   <value name="extends"></value>
   <array name="implements" type="value" depth="1">
   </array>
@@ -136,6 +141,7 @@ cm93IG5ldyBFeGNlcHRpb24oKTsKCQl9Cgl9Cn0g</value>
     <value>java.util.Enumeration</value>
     <value>java.util.Map</value>
     <value>java.net.NetworkInterface</value>
+    <value>java.net.UnknownHostException</value>
     <value>java.nio.ByteBuffer</value>
   </array>
 </Values>

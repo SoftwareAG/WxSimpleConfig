@@ -28,6 +28,7 @@ import java.time.Instant;
 import java.util.Enumeration;
 import java.util.Map;
 import java.net.NetworkInterface;
+import java.net.UnknownHostException;
 import java.nio.ByteBuffer;
 // --- <<IS-END-IMPORTS>> ---
 
@@ -125,6 +126,22 @@ public final class j
 		if(!bPasswordDecrypted)
 			IDataUtil.put( pipelineCursor_1, "errorMessage", errorMessage );
 		pipelineCursor_1.destroy();
+		// --- <<IS-END>> ---
+
+                
+	}
+
+
+
+	public static final void getCurrentHostName (IData pipeline)
+        throws ServiceException
+	{
+		// --- <<IS-START(getCurrentHostName)>> ---
+		// @sigtype java 3.5
+		// [o] field:0:required currentHostName
+		IDataCursor pipelineCursor = pipeline.getCursor();
+		IDataUtil.put( pipelineCursor, "currentHostName", crtHostName );
+		pipelineCursor.destroy();
 		// --- <<IS-END>> ---
 
                 
@@ -316,6 +333,9 @@ public final class j
 		// --- <<IS-START(getNextIdMultipleForms)>> ---
 		// @sigtype java 3.5
 		// [o] field:0:required sNextIdHex
+		// [o] object:0:required lNextId
+		// [o] field:0:required sNextId
+		// [o] field:0:required sNextIdShort
 		// pipeline
 		
 		long l=sf.nextId();
@@ -650,7 +670,20 @@ public final class j
 				throw new Exception();
 			}
 		}
-	} 
+	}
+	
+	static private String getCrtHostName(){
+		String s = null;
+		try {
+			s = java.net.InetAddress.getLocalHost().getHostName();
+		} catch (UnknownHostException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return s;
+	}
+	
+	static final private String crtHostName=getCrtHostName();
 	// --- <<IS-END-SHARED>> ---
 }
 
