@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">20.02.20.1</value>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <null name="requires"/>
+  <value name="listACL">Default</value>
+  <value name="webappLoad">yes</value>
+  <value name="name">WxSimpleConfigTest</value>
+  <value name="build"></value>
+  <value name="description">WxSimpleConfigTest</value>
+  <null name="publisher"/>
+  <value name="patch_nums"></value>
+</Values>
