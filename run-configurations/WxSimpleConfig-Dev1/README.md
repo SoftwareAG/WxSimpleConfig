@@ -5,9 +5,9 @@ This run configuration is provided for the development of the related code, in t
 ## Prerequisites
 
 - docker compose to spin up the development server
-- Software AG Designer to author flow services
+- webMethods Designer to author flow services
 - `*.env` editor (e.g. Visual Studio Code with DOTENV extension)
-- valid Software AG Microservices Runtime license file
+- valid webMethods Microservices Runtime license file
 - a git client
 - access to a microservices runtime image, the example considers the 10.15 version from https://containers.softwareag.com
 
